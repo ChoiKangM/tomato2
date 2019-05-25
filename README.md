@@ -63,5 +63,13 @@ $ python cifar10_train.py
 ![img/first_train_start.png](img/first_train_start.png)
 ![img/first_train_end.png](img/first_train_end.png)
 
+# `bin` 데이터 확인2
+![img/loadBinFIle2.png](img/loadBinFIle2.png)
+
+## 두번째 학습
+![img/secondTrain1.png](img/secondTrain1.png)
+![img/secondTrain2.png](img/secondTrain2.png)
+![img/secondTrain3.png](img/secondTrain3.png)
+![img/secondTrain4.png](img/secondTrain4.png)
 
 * [모델 평가하기 -> 모델 사용하기](https://tykimos.github.io/2017/08/18/Image_Input_Multiclass_Classification_Model_Recipe/)
