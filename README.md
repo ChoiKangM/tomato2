@@ -5,12 +5,8 @@ Hello, Robotics
 
 ## 지영아 사진 찍자
 
-```console
-$	while true; do takephoto; sleep 1;done   
-
-$	raspistill -o $(time).jpg  
-
-$	export time="$(date +"%F_%T")"  
+```console   
+$	raspistill -o "$(date +%F_%T)".jpg  
 ```
 
 
