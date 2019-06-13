@@ -73,3 +73,7 @@ $ python cifar10_train.py
 ![img/secondTrain4.png](img/secondTrain4.png)
 
 * [모델 평가하기 -> 모델 사용하기](https://tykimos.github.io/2017/08/18/Image_Input_Multiclass_Classification_Model_Recipe/)
+
+# Resources
+[학술대회 PPT](document/academic_conference_presentation.pdf)  
+[CNN과 영상처리기술을 사용한 과수모니터링 시스템](document/paper.pdf)  
