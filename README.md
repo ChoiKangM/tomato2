@@ -77,3 +77,4 @@ $ python cifar10_train.py
 # Resources
 [학술대회 PPT](document/academic_conference_presentation.pdf)  
 [CNN과 영상처리기술을 사용한 과수모니터링 시스템](document/paper.pdf)  
+![document/certificate.jpeg](document/certificate.jpeg)
